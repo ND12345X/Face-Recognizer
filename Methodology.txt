@@ -1,0 +1,17 @@
+METHODOLOGY AND  GUIDE
+
+
+-------->>>>Most of the code have been explained through comments and so here I will explain the conclusions.<<<<----
+
+1>Face Detection-We have used Haar Cascade classifier here along with  Open CV.This part not only detects the face but also the eyes,nose and the mouth
+
+separately.
+
+2>Collecting Training Data-Here we will collect the training data(Images) of the person to be recognised .
+
+
+3>Training Classifier--The classifier is trained on the training data to recognise a person.
+
+
+4>Real Time Face Recognition--A box encloses the persons face and displays the name. 
+
